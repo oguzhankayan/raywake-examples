@@ -31,5 +31,5 @@ prompt, and both limits come from the Kling 4.0 API itself.
 
 Quotes are the price you approve; the run is never charged more.
 
-More: [Kling 4.0 guide](https://raywake.si/blog/kling-4-0) · [model page](https://raywake.si/explore/kling/v4/text-to-video) ·
+More: [Kling 4.0 guide](https://raywake.si/blog/kling-4-0) · [model page](https://raywake.si/models/kling/v4/text-to-video) ·
 [quotes reference](https://raywake.si/docs/reference/quotes) · [generations](https://raywake.si/docs/generations)
