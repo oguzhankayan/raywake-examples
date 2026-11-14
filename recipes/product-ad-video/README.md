@@ -14,6 +14,6 @@ python product_ads.py products.csv --generate --duration 10 --resolution 1080p
 
 `products.csv` columns: `name`, `image_url` (a public https JPEG, PNG or WebP, at least 300 px, aspect ratio
 0.4–2.5) and an optional `motion` sentence. The clip keeps the photo's framing, so a vertical photo gives a vertical
-clip. A 5-second 720p clip costs $1.37 on Raywake.
+clip. A 5-second 720p clip costs $1.37 on Raywake (15 November 2026; the quote shows the current price).
 
 Use photos you have the rights to. See the [Kling 4.0 guide](https://raywake.si/blog/kling-4-0) for prompting tips.
